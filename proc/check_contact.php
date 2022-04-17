@@ -1,9 +1,9 @@
 <?php
 $contact_list = [
 	'username'	=> 3,
-	'email'			=> 10,
+	'email'		=> 10,
 	'password'	=> 5,
-	'massage'		=> 15
+	'massage'	=> 15
 	];
 
 	session_start();
